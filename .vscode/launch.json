@@ -20,7 +20,7 @@
     
        "request": "launch",
     
-       "program": "${workspaceFolder}/",
+       "program": "${fileDirname}/${fileBasenameNoExtension}",
     
        "args": [],
     
